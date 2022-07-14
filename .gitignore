@@ -1,0 +1,9 @@
+# Project exclude paths
+.idea/
+.debug/
+
+.gradle/
+build/
+
+!gradle-wrapper.jar
+!gradle-wrapper.properties
